@@ -9,6 +9,7 @@ function Product(obj) {
                 <h2 className="product-title">{obj.title}</h2>
                 <p className="product-description">{obj.description}</p>
             </div>
+            <button>Add to card</button>
         </div>
     )
 }

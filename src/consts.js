@@ -29,19 +29,19 @@ export const Products = [
         description: "Advanced drone with HD camera, real-time transmission, and GPS tracking.",
         image: "https://media.wired.com/photos/65fdfc40f9ff6cdb8f90f943/master/w_1280%2Cc_limit/DJI-Air-3-Offwhite-Background-SOURCE-DJI.jpg/"
     },
-    {
-        title: "Wireless Mouse",
-        description: "Ergonomically designed wireless mouse with fast response time and smooth tracking.",
-        image: "https://rukminim2.flixcart.com/image/850/1000/xif0q/mouse/3/1/t/dash-2-4ghz-wireless-bluetooth-5-1-mouse-dual-mode-slim-original-imagvwthxhgxtjt6.jpeg?q=90&crop=false"
-    },
-    {
-        title: "Smart Home Speaker",
-        description: "Voice-controlled smart home speaker with advanced AI capabilities and crystal-clear sound.",
-        image: "https://media.wired.com/photos/5cc31f942ba79652e970ca51/master/w_1600%2Cc_limit/Bose-Home-Speaker-500-Angled-SOURCE-Bose.jpg"
-    },
-    {
-        title: "Portable Power Bank",
-        description: "Compact and lightweight power bank with fast charging and multiple USB ports.",
-        image: "https://m.media-amazon.com/images/I/51L3GFbMQHS._AC_UF894,1000_QL80_.jpg"
-    }
+    // {
+    //     title: "Wireless Mouse",
+    //     description: "Ergonomically designed wireless mouse with fast response time and smooth tracking.",
+    //     image: "https://rukminim2.flixcart.com/image/850/1000/xif0q/mouse/3/1/t/dash-2-4ghz-wireless-bluetooth-5-1-mouse-dual-mode-slim-original-imagvwthxhgxtjt6.jpeg?q=90&crop=false"
+    // },
+    // {
+    //     title: "Smart Home Speaker",
+    //     description: "Voice-controlled smart home speaker with advanced AI capabilities and crystal-clear sound.",
+    //     image: "https://media.wired.com/photos/5cc31f942ba79652e970ca51/master/w_1600%2Cc_limit/Bose-Home-Speaker-500-Angled-SOURCE-Bose.jpg"
+    // },
+    // {
+    //     title: "Portable Power Bank",
+    //     description: "Compact and lightweight power bank with fast charging and multiple USB ports.",
+    //     image: "https://m.media-amazon.com/images/I/51L3GFbMQHS._AC_UF894,1000_QL80_.jpg"
+    // }
 ];
