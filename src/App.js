@@ -17,11 +17,13 @@ function Product(obj) {
 
 function App() {
     return (
-        <main>
-            {Products.map((el) => {
-                return <Product key={el.title} {...el} />;
-            })}
-        </main>
+        <>
+            <main>
+                {Products.map((el) => {
+                    return <Product key={el.title} {...el} />;
+                })}
+            </main>
+        </>
     );
 }
 
